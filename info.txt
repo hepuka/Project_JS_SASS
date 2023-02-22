@@ -5,4 +5,4 @@ a videó első része a tananyag
 
 LIVE SASS használata: nem kell gulp mint a tananyagban használva volt
 
-live sass compiler telepítése az extensions-ökből, ha nég nincs meg
+live sass compiler telepítése az extensions-ökből
